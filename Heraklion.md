@@ -1,4 +1,8 @@
 # 2020
+## May
+<b> Racist police hit man due to his dark skin color </b>
+id: herak-20-05-18-1
+* [article from TPP](https://thepressproject.gr/pakistane-kane-stin-akri-epithesi-astynomikon-me-ratsistika-kinitra-kata-ellina-politi/)
 
 ## November 
 
