@@ -41,6 +41,7 @@ id: ath-21-02-10-02
 * https://www.alfavita.gr/koinonia/343527_syllalitirio-epithesi-ston-fotoreporter-g-liako-kataggellei-i-efe
 * https://www.facebook.com/marios.lolos.1/posts/10215287559581
 * https://twitter.com/savvaskarma/status/1359488012002988034?fbclid=IwAR1VYQw6_TsuQnU_iw8Di3wjDA8lVIed2Lap3b8iT4-mHiuLT-sx19QIOPA 
+* https://www.facebook.com/marios.lolos.1/posts/10215287559581220
 
 
 
@@ -71,6 +72,14 @@ id: ath-21-02-10-05
 id: ath-21-02-10-06
   
 * https://twitter.com/JohnnyHoston/status/1359788935728226305
+
+### Group of officers throw down man and arrest him | 10/02/2021
+  
+id: ath-21-02-10-07  
+  
+* https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
+
+ 
 
 
 
