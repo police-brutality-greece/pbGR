@@ -1,6 +1,6 @@
 ## 24/02/2020:
 
-Undercover police officer points pistol at students inside AUEB (ΑΣΟΕΕ) university |  24/02/2020
+### Undercover police officer points pistol at students inside AUEB (ΑΣΟΕΕ) university |  24/02/2020
 <br>
 id:ath-20-02-24-01
 <br>
@@ -8,7 +8,7 @@ id:ath-20-02-24-01
 * https://www.youtube.com/watch?v=VntYDd2CWjU
 
 ## 09/02/2021
-<b> Attack on photojournalists from riot police during a demonstration for D. Koufontinas | 09/02/2021 </b>   
+### Attack on photojournalists from riot police during a demonstration for D. Koufontinas | 09/02/2021 
 <br>
 id: ath-21-02-09-01
 <br>
@@ -16,13 +16,13 @@ id: ath-21-02-09-01
 
 
 ## 10/02/2021
-<b> Riot police reportedly break jaw of student protestor with fire extinguisher | 10/02/2021 </b>  
+### Riot police reportedly break jaw of student protestor with fire extinguisher | 10/02/2021  
 <br>
 id: ath-21-02-10-01
 <br>
 * https://www.alfavita.gr/ekpaideysi/343577_syllalitirio-astynomikoi-espasan-sagoni-foititi-me-pyrosbestira
 
-<b>Riot police push photojournalist to the ground  | 10/02/2021 </b>  
+### Riot police push photojournalist to the ground  | 10/02/2021   
 <br>
 id: ath-21-02-10-02
 <br>
@@ -30,28 +30,31 @@ id: ath-21-02-10-02
 * https://www.facebook.com/marios.lolos.1/posts/10215287559581
 * https://twitter.com/savvaskarma/status/1359488012002988034?fbclid=IwAR1VYQw6_TsuQnU_iw8Di3wjDA8lVIed2Lap3b8iT4-mHiuLT-sx19QIOPA 
 
-<br>
-<b>Riot police attack fallen down protester | 10/02/2021 </b> 
-<br>
-id: ath-21-02-10-03
-<br>
-*  https://twitter.com/dromografos/status/1359525553531981826
- * https://twitter.com/kinimatini/status/1359511839302893568  
 
-<b>Riot police hit fallen protester with a police motorcycle | 10/02/2021 </b>
+
+### Riot police attack fallen down protester | 10/02/2021 
+
 <br>
-id: ath-21-02-10-04
+id: ath-21-02-10-03  
 <br>
-* https://twitter.com/kinimatini/status/1359585283583393799 <br>
+* https://twitter.com/dromografos/status/1359525553531981826
+* https://twitter.com/kinimatini/status/1359511839302893568
+* https://fb.watch/3BvK7Ld5L-/
+
+### Riot police hit fallen protester with a police motorcycle | 10/02/2021
+<br>
+id: ath-21-02-10-04  
+<br>
+* https://twitter.com/kinimatini/status/1359585283583393799
 * https://twitter.com/dromografos/status/1359534865046245378  
-
-<b>Riot police hit fallen down protester after chasing him | 10/02/2021 </b> 
+  
+### Riot police hit fallen down protester after chasing him | 10/02/2021   
 <br>
 id: ath-21-02-10-05
 <br>
 * https://twitter.com/ThePressProject/status/1359503615946338305
 
-<b> Two riot policemen kick fallen down protester at night | 10/02/2021</b>
+### Two riot policemen kick fallen down protester at night | 10/02/2021 
 <br>
 id: ath-21-02-10-06
 <br>
