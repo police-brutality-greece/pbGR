@@ -7,6 +7,13 @@ id:ath-20-02-24-01
 * https://twitter.com/nada_over_drive/status/1231952648082948097
 * https://www.youtube.com/watch?v=VntYDd2CWjU
 
+## 30/09/2020
+
+### Riot police push and harrass group of protesters holding banner | 30/09/2020
+  
+id:ath-20-09-30-01  
+* https://www.youtube.com/watch?v=NNr-pjmfNFs  
+
 ## 06/12/2020
 ### Riot police rush into apartment building, using a flash grenade inside it
   
