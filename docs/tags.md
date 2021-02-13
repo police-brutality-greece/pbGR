@@ -35,4 +35,6 @@ threaten
 ```
   
 ### Misc
-permanent-damage  
+```
+permanent-damage
+```
