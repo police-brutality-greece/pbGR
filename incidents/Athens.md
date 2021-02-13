@@ -11,14 +11,14 @@ id:ath-20-02-24-01
 
 ### Riot police push and harrass group of protesters holding banner | 30/09/2020
   
-tags: threaten, push
+tags: threaten, push  
 id:ath-20-09-30-01  
 * https://www.youtube.com/watch?v=NNr-pjmfNFs  
 
 ## 06/12/2020
 ### Riot police rush into apartment building, using a flash grenade inside it
   
-tags: flash-grenade
+tags: flash-grenade  
 id: ath-20-12-06-01  
 **Links**
 * https://www.youtube.com/watch?v=CziEh9BTMPk
@@ -34,7 +34,7 @@ id: ath-20-12-06-02
 ## 09/02/2021
 ### Attack on photojournalists from riot police during a demonstration for D. Koufontinas | 09/02/2021 
   
-tags: kick, journalist
+tags: kick, journalist  
 id: ath-21-02-09-01  
 **Links**  
 
@@ -52,7 +52,7 @@ id: ath-21-02-10-01
 
 ### Riot police push photojournalist to the ground  | 10/02/2021   
   
-tags: tackle, journalist
+tags: tackle, journalist  
 id: ath-21-02-10-02
   
 **Links**  
@@ -65,7 +65,7 @@ id: ath-21-02-10-02
 
 ### Riot police attack fallen down protester | 10/02/2021 
 
-tags: kick 
+tags: kick  
 id: ath-21-02-10-03  
   
 **Links**  
@@ -75,7 +75,7 @@ id: ath-21-02-10-03
 
 ### Riot police hit fallen protester with a police motorcycle | 10/02/2021
   
-tags: bike, beat
+tags: bike, beat  
 id: ath-21-02-10-04  
   
 **Links**  
@@ -84,7 +84,7 @@ id: ath-21-02-10-04
   
 ### Riot police hit fallen down protester after chasing him | 10/02/2021   
   
-tags: beat
+tags: beat  
 id: ath-21-02-10-05
   
 **Links**  
@@ -92,7 +92,7 @@ id: ath-21-02-10-05
 
 ### Two riot policemen kick fallen down protester at night | 10/02/2021 
   
-tags: kick
+tags: kick  
 id: ath-21-02-10-06
   
 **Links**  
@@ -100,7 +100,7 @@ id: ath-21-02-10-06
 
 ### Group of officers throw down man and arrest him | 10/02/2021
   
-tags: elderly, tackle, inhumane-treatment
+tags: elderly, tackle, inhumane-treatment  
 id: ath-21-02-10-07  
   
 **Links**  
