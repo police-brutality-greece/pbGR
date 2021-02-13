@@ -5,6 +5,7 @@
 bystander  
 child  
 elderly  
+student  
 journalist  
 racial-profiling  
 lgbtq+  
@@ -17,7 +18,8 @@ baton
 bike  
 kick  
 shield  
-punch  
+punch 
+flash-grenade  
 
 ```
   
@@ -36,5 +38,9 @@ threaten
   
 ### Misc
 ```
-permanent-damage
+uncercover  
+permanent-damage  
+university 
+abuse-of-power
+fallen
 ```
