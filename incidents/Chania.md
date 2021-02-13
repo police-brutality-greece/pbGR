@@ -1,6 +1,7 @@
 
 ### Police hit protestors while arresting other  | 06/12/2020
   
+tags: arrest, beat, shove
 id: cha-20-12-06-01
   
 * https://www.youtube.com/watch?v=SDGmbjV10Js
@@ -8,6 +9,7 @@ id: cha-20-12-06-01
 
 ### Riot police and undercover policemen hit isolated protestors | 06/12/2020
   
+tags: undercover, beat
 id: cha-20-12-06-02
   
 * https://www.youtube.com/watch?v=SDGmbjV10Js
