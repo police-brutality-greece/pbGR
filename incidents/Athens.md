@@ -1,8 +1,11 @@
 ## Athens
 
-### Undercover police officer points pistol at students inside AUEB (ΑΣΟΕΕ) university | 2020-02-24
-tags:threaten, student, university    
+### Undercover police officer points pistol at students inside AUEB (ΑΣΟΕΕ) university | 2020-02-24  
+  
+tags:threaten, student, university  
+  
 id:ath-20-02-24-01  
+  
 **Links**  
 
 * https://twitter.com/nada_over_drive/status/1231952648082948097
