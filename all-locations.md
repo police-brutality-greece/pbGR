@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
-UPDATED AT: 2021-02-14T19:25:08.388560+00:00
+UPDATED AT: 2021-02-14T21:13:21.192402+00:00
 
 # Athens
 ## Athens
@@ -228,7 +228,7 @@ id: herak-20-11-17-1
 
 
 
-## Police make two girls strip during check | 2021-02-03
+### Police make two girls strip during check | 2021-02-03
 
 
 tags: abuse-of-power, arrest  
