@@ -28,7 +28,7 @@ id: herak-20-11-17-1
 
 
 
-## Police make two girls strip during check | 2021-02-03
+### Police make two girls strip during check | 2021-02-03
 
 
 tags: abuse-of-power, arrest  
