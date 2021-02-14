@@ -1,7 +1,7 @@
 
 ## Heraklion
   
-### Police hits man due to his dark skin color | 2020-05-18
+### Police officer hits man due to his dark skin color | 2020-05-18
   
 tags: racial-profiling, beat, inchumane-treatment
   
