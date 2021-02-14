@@ -12,8 +12,8 @@ Given the row in the CSV file, the corresponding video would be `126765313796962
 
 # install
 
-* Ensure you have go installed at version 1.14+
-* Ensure you have youtube-dl installed
+* Ensure you have [go](https://golang.org/dl/) installed at version 1.14+
+* Ensure you have [youtube-dl](https://youtube-dl.org/) installed
 * Build the binary using `go build` OR `make build`
 
 # usage
