@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
-UPDATED AT: 2021-02-14T21:13:21.192402+00:00
+UPDATED AT: 2021-02-14T23:05:27.181741+00:00
 
 # Athens
 ## Athens
@@ -201,7 +201,7 @@ id:chi-20-02-28-02
 
 ## Heraklion
   
-### Police hits man due to his dark skin color | 2020-05-18
+### Police officer hits man due to his dark skin color | 2020-05-18
   
 tags: racial-profiling, beat, inchumane-treatment
   
