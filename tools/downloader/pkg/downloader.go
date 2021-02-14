@@ -23,7 +23,7 @@ const (
 	0    , 1     , 2  , 3  , 4  , 5       , 6    , 7    ,  8   , 9    , 10   , 11  ,  12   , 13
 	state,edit_at,city,name,date,date_text,Link 1,Link 2,Link 3,Link 4,Link 5,Link 6,Link 7,Link 8
 	*/
-	url = "https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.csv"
+	url = "https://raw.githubusercontent.com/pb-gr/police-brutality-greece/data_build/all-locations.csv?token=AS2GO6SHD6ZIS4ZDE2YFLQDAFGZKI"
 )
 
 // Downloader downloads the media contained in the csv file
