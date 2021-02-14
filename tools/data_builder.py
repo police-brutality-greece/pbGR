@@ -138,19 +138,19 @@ def _format_lat_or_long(val: str) -> None:
     return val.strip("+")
 
 
-def validate_geo(geo_body_raw: str) -> str:
-    geo_body = geo_body_raw.strip()
-    if geo_body == "":
-        return ""
-
-    try:
-        parsed_lat = _format_lat_or_long(LAT_REGEX.match(geo_body).group(1))
-        parsed_long = _format_lat_or_long(LONG_REGEX.match(geo_body).group(1))
-        if not parsed_lat and not parsed_long:
-            raise ValueError(f"Could not parse geolocation: {geo_body}")
-        return f"{parsed_lat}, {parsed_long}"
-    except AttributeError:
-        raise ValueError(f"Could not parse geolocation: {geo_body}")
+#def validate_geo(geo_body_raw: str) -> str:
+#    geo_body = geo_body_raw.strip()
+#    if geo_body == "":
+#        return ""
+#
+#    try:
+#        parsed_lat = _format_lat_or_long(LAT_REGEX.match(geo_body).group(1))
+#        parsed_long = _format_lat_or_long(LONG_REGEX.match(geo_body).group(1))
+#        if not parsed_lat and not parsed_long:
+#            raise ValueError(f"Could not parse geolocation: {geo_body}")
+#        return f"{parsed_lat}, {parsed_long}"
+#    except AttributeError:
+#        raise ValueError(f"Could not parse geolocation: {geo_body}")
 
 
 def parse_state(prefecture, text):
