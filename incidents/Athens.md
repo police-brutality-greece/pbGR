@@ -133,7 +133,8 @@ id: ath-21-02-10-07
 **Links**  
   
 * https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
-* https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g
+* https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
+* https://www.efsyn.gr/node/281437
  
 
 
