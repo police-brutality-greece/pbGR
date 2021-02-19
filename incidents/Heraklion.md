@@ -13,7 +13,7 @@ id: herak-20-05-18-1
 
 
 
-### Riot police throw student protester to the ground then assault her | 2020-11-17
+### Riot police throw student protestοr to the ground then assault her | 2020-11-17
   
 tags: tackle, beat, arrest  
   
