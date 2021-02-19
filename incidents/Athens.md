@@ -82,7 +82,7 @@ id: ath-21-02-10-02
 
 
 
-### Riot police attack fallen down protester | 2021-02-10
+### Riot police attack fallen down protestor | 2021-02-10
 
 tags: kick  
   
@@ -94,7 +94,7 @@ id: ath-21-02-10-03
 * https://twitter.com/kinimatini/status/1359511839302893568
 * https://fb.watch/3BvK7Ld5L-/
 
-### Riot police hit fallen protester with a police motorcycle | 2021-02-10
+### Riot police hit fallen protestor with a police motorcycle | 2021-02-10
   
 tags: bike, beat  
   
@@ -105,7 +105,7 @@ id: ath-21-02-10-04
 * https://twitter.com/kinimatini/status/1359585283583393799
 * https://twitter.com/dromografos/status/1359534865046245378  
   
-### Riot police hit fallen down protester after chasing him | 2021-02-10   
+### Riot police hit fallen down protestor after chasing him | 2021-02-10   
   
 tags: beat  
   
@@ -115,7 +115,7 @@ id: ath-21-02-10-05
   
 * https://twitter.com/ThePressProject/status/1359503615946338305
 
-### Two riot policemen kick fallen down protester at night | 2021-02-10 
+### Two riot policemen kick fallen down protestor at night | 2021-02-10 
   
 tags: kick  
   
@@ -135,5 +135,11 @@ id: ath-21-02-10-07
 * https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
 * https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
 * https://www.efsyn.gr/node/281437
-
-
+  
+### Protestor is knocked unconscious by riot police attack | 2021-02-10  
+  
+tags: beat, student  
+  
+**Links:**  
+*  https://www.facebook.com/Covid19Solidarity/posts/249812629980833
+*  https://www.facebook.com/hitthe.road/posts/3659118934142389
