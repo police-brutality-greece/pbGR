@@ -66,6 +66,10 @@ id: ath-21-02-10-01
 **Links**  
   
 * https://www.alfavita.gr/ekpaideysi/343577_syllalitirio-astynomikoi-espasan-sagoni-foititi-me-pyrosbestira
+*  https://thepressproject.gr/anaisthitos-petamenos-mesa-sta-aimata-mou-chtypimenos-me-pyrosvestira-sto-syllalitirio-kata-tis-panepistimiakis-astynomias/  
+*  https://www.facebook.com/Covid19Solidarity/posts/249812629980833
+*  https://www.facebook.com/hitthe.road/posts/3659118934142389
+
 
 ### Riot police push photojournalist to the ground  | 2021-02-10   
   
@@ -136,10 +140,3 @@ id: ath-21-02-10-07
 * https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
 * https://www.efsyn.gr/node/281437
   
-### Protestor is knocked unconscious by riot police attack | 2021-02-10  
-  
-tags: beat, student  
-  
-**Links:**  
-*  https://www.facebook.com/Covid19Solidarity/posts/249812629980833
-*  https://www.facebook.com/hitthe.road/posts/3659118934142389
