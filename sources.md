@@ -12,4 +12,13 @@ This file includes many sources for some videos/articles used for the incidents 
 * efsyn.gr https://www.efsyn.gr/search?keywords=%CE%B1%CF%83%CF%84%CF%85%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AE+%CE%B2%CE%AF%CE%B1
   
 ## Facebook pages:  
-* Copwatch.gr https://www.facebook.com/Copwatchgr-100879595187431
+* Copwatch.gr https://www.facebook.com/Copwatchgr-100879595187431  
+  
+## Twitter accounts:
+* https://twitter.com/kinimatini
+* https://twitter.com/3pointmagazine
+* https://twitter.com/savvaskarma
+* https://twitter.com/ArisMessinis
+
+## Hastags:  
+* https://twitter.com/hashtag/antireport?src=hashtag_click
