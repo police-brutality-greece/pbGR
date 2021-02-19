@@ -6,8 +6,9 @@ A documentation of police brutality incidents in Greece, starting from 2020 (ong
 
 If you wish to report an incident:
 **Use the template ->[here](https://github.com/pb-gr/police-brutality-greece/issues/new?assignees=&labels=&template=new-incident-report.md&title=%5BNEW+INCIDENT%5D%5BLOCATION%5D%5BDATE%5D)<-**  
-**Otherwise** send a message containing the incident date, location (city) and a brief description to:
-pbgrt@protonmail.com  
+  
+Otherwise **send an email** containing the incident date, location (city) and a brief description to:
+**pbgrt@protonmail.com** 
   
 
 An [official report](https://www.reader.gr/news/koinonia/343069/ekthesi-epitropis-alivizatoy-gia-astynomiki-atimorisia-aprothymia-merolipsia) about impunity of ELAS (greek police) members came out at 4 May 2020 (published in November 2020) 
