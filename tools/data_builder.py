@@ -264,7 +264,7 @@ def process_md_texts(md_texts):
 updated_at = datetime.now(timezone.utc).isoformat()
 
 md_header = f"""
-GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/source_link = f"https://github.com/pb-gr/police-brutality-greece/blob/main/incidents/{prefecture}.md"/
+GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
 UPDATED AT: {updated_at}
 """
 
