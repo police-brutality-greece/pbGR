@@ -140,3 +140,19 @@ id: ath-21-02-10-07
 * https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
 * https://www.efsyn.gr/node/281437
   
+### Police officers stop protestors from leaving metro station, wait until curfew starts to arrest them | 2021-02-21  
+  
+tags: abuse-of-power, arrest  
+  
+id:ath-21-02-21-01  
+  
+**Links:**  
+  
+* https://fb.watch/3NgXFcoZF9/
+* https://twitter.com/travers37886972/status/1363148177524858887
+* https://twitter.com/risinggalaxy/status/1363185497351335944
+* https://twitter.com/antirinfo/status/1363156157087498241
+* https://twitter.com/stergiosale/status/1363146494237433858
+* https://twitter.com/antirinfo/status/1363143389030539265
+* https://twitter.com/d_maragoudaki/status/1363137458809032706
+  
