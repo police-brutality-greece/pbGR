@@ -155,4 +155,5 @@ id:ath-21-02-21-01
 * https://twitter.com/stergiosale/status/1363146494237433858
 * https://twitter.com/antirinfo/status/1363143389030539265
 * https://twitter.com/d_maragoudaki/status/1363137458809032706
+* https://twitter.com/Covid19energoi/status/1363191930532884481
   
