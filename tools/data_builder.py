@@ -154,7 +154,7 @@ def _format_lat_or_long(val: str) -> None:
 
 
 def parse_state(prefecture, text):
-    source_link = f"https://github.com/pb-gr/police-brutality-greece/blob/main/reports/{prefecture}.md"
+    source_link = f"https://github.com/pb-gr/police-brutality-greece/blob/main/incidents/{prefecture}.md"
     city = ""
     #if state == "Washington DC":
     #    city = "DC"
