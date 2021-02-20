@@ -1,6 +1,6 @@
 
-GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
-UPDATED AT: 2021-02-14T23:15:42.582039+00:00
+GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
+UPDATED AT: 2021-02-20T23:28:15.133773+00:00
 
 # Athens
 ## Athens
@@ -71,6 +71,10 @@ id: ath-21-02-10-01
 **Links**  
   
 * https://www.alfavita.gr/ekpaideysi/343577_syllalitirio-astynomikoi-espasan-sagoni-foititi-me-pyrosbestira
+*  https://thepressproject.gr/anaisthitos-petamenos-mesa-sta-aimata-mou-chtypimenos-me-pyrosvestira-sto-syllalitirio-kata-tis-panepistimiakis-astynomias/  
+*  https://www.facebook.com/Covid19Solidarity/posts/249812629980833
+*  https://www.facebook.com/hitthe.road/posts/3659118934142389
+
 
 ### Riot police push photojournalist to the ground  | 2021-02-10   
   
@@ -87,7 +91,7 @@ id: ath-21-02-10-02
 
 
 
-### Riot police attack fallen down protester | 2021-02-10
+### Riot police attack fallen down protestor | 2021-02-10
 
 tags: kick  
   
@@ -99,7 +103,7 @@ id: ath-21-02-10-03
 * https://twitter.com/kinimatini/status/1359511839302893568
 * https://fb.watch/3BvK7Ld5L-/
 
-### Riot police hit fallen protester with a police motorcycle | 2021-02-10
+### Riot police hit fallen protestor with a police motorcycle | 2021-02-10
   
 tags: bike, beat  
   
@@ -110,7 +114,7 @@ id: ath-21-02-10-04
 * https://twitter.com/kinimatini/status/1359585283583393799
 * https://twitter.com/dromografos/status/1359534865046245378  
   
-### Riot police hit fallen down protester after chasing him | 2021-02-10   
+### Riot police hit fallen down protestor after chasing him | 2021-02-10   
   
 tags: beat  
   
@@ -120,7 +124,7 @@ id: ath-21-02-10-05
   
 * https://twitter.com/ThePressProject/status/1359503615946338305
 
-### Two riot policemen kick fallen down protester at night | 2021-02-10 
+### Two riot policemen kick fallen down protestor at night | 2021-02-10 
   
 tags: kick  
   
@@ -140,11 +144,24 @@ id: ath-21-02-10-07
 * https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
 * https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
 * https://www.efsyn.gr/node/281437
- 
-
-
-
-
+  
+### Police officers stop protestors from leaving metro station, wait until curfew starts to arrest them | 2021-02-21  
+  
+tags: abuse-of-power, arrest  
+  
+id:ath-21-02-21-01  
+  
+**Links:**  
+  
+* https://fb.watch/3NgXFcoZF9/
+* https://twitter.com/travers37886972/status/1363148177524858887
+* https://twitter.com/risinggalaxy/status/1363185497351335944
+* https://twitter.com/antirinfo/status/1363156157087498241
+* https://twitter.com/stergiosale/status/1363146494237433858
+* https://twitter.com/antirinfo/status/1363143389030539265
+* https://twitter.com/d_maragoudaki/status/1363137458809032706
+* https://twitter.com/Covid19energoi/status/1363191930532884481
+  
 
 
 # Chania
@@ -213,7 +230,7 @@ id: herak-20-05-18-1
 
 
 
-### Riot police throw student protester to the ground then assault her | 2020-11-17
+### Riot police throw student protestοr to the ground then assault her | 2020-11-17
   
 tags: tackle, beat, arrest  
   
