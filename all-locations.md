@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-22T16:54:38.607755+00:00
+UPDATED AT: 2021-02-22T17:08:44.976911+00:00
 
 # Athens
 ## Athens
@@ -322,13 +322,24 @@ id:thes-21-02-22-01
   
 **Links**
   
-* https://www.facebook.com/100002727274353/videos/3198479776919567/
+* https://www.facebook.com/100002727274353/videos/3198479776919567/  
+
+## Student with cruthches is arrested, put in police van | 2021-02-22
+  
+tags: arrest, abuse-of-power  
+  
+id:thes-21-02-22-02  
+  
+**Links**  
+  
+* https://www.youtube.com/watch?v=DQ9tOqrzE8s
+* http://www.katiousa.gr/koinonia/paideia/evalan-stin-klouva-foititria-me-pateritsa-lipothymi-sto-edafos-alli-mia-aksios-o-misthos-ton-praitorianon/?fbclid=IwAR1DTbA-evMbjyMkNolYo-mjSAm8lh1eIEfoIU4WXtlCP2JF30tOlsOHr_8
   
 ## Riot police assault students inside AUTH university | 2021-02-22  
   
 tags: beat  
   
-id: thes-21-02-22-02  
+id: thes-21-02-22-03  
   
 **Links**  
   
