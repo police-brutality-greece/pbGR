@@ -31,7 +31,8 @@ id:thes-21-02-22-01
   
 **Links**
   
-* https://www.facebook.com/100002727274353/videos/3198479776919567/  
+* https://www.facebook.com/100002727274353/videos/3198479776919567/ 
+* https://twitter.com/blacktom1961/status/1363838841677873153 
 
 ## Student with cruthches is arrested, put in police van | 2021-02-22
   
