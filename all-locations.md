@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-22T17:38:15.966348+00:00
+UPDATED AT: 2021-02-22T17:39:42.897480+00:00
 
 # Athens
 ## Athens
@@ -314,7 +314,7 @@ id: thes-21-02-10-01
   
 * https://www.youtube.com/watch?v=MjLRqzAFSdQ
 
-## Riot police continuously assault arrested protestor in AUTH university | 2021-02-22
+## Riot police continuously assault arrested, fallen protestor in AUTH university | 2021-02-22
   
 tags:arrest, beat, fallen  
   
@@ -324,6 +324,7 @@ id:thes-21-02-22-01
   
 * https://www.facebook.com/100002727274353/videos/3198479776919567/ 
 * https://twitter.com/blacktom1961/status/1363838841677873153 
+* https://thepressproject.gr/vasanismos-prosachthenta-me-tin-ypografi-tis-el-as-se-koini-thea-sto-apth/
 
 ## Student with cruthches is arrested, put in police van | 2021-02-22
   
