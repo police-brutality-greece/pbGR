@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-22T13:18:16.707954+00:00
+UPDATED AT: 2021-02-22T16:54:38.607755+00:00
 
 # Athens
 ## Athens
@@ -323,6 +323,16 @@ id:thes-21-02-22-01
 **Links**
   
 * https://www.facebook.com/100002727274353/videos/3198479776919567/
+  
+## Riot police assault students inside AUTH university | 2021-02-22  
+  
+tags: beat  
+  
+id: thes-21-02-22-02  
+  
+**Links**  
+  
+* https://fb.watch/3PCKbEJvNk/
 
 
 # Volos
