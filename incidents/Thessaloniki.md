@@ -23,4 +23,12 @@ id: thes-21-02-10-01
   
 * https://www.youtube.com/watch?v=MjLRqzAFSdQ
 
-
+## Riot police continuously assault arrested protestor in AUTH university | 2021-02-22
+  
+tags:arrest, beat, fallen  
+  
+id:thes-21-02-22-01  
+  
+**Links**
+  
+* https://www.facebook.com/100002727274353/videos/3198479776919567/
