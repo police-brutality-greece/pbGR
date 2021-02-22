@@ -36,6 +36,7 @@ id:thes-21-02-22-01
 * https://thepressproject.gr/vasanismos-prosachthenta-me-tin-ypografi-tis-el-as-se-koini-thea-sto-apth/
 * https://www.alfavita.gr/koinonia/344332_apth-basanismos-diadiloti-apo-astynomikoys-se-koini-thea-binteo?fbclid=IwAR25plc0cFudy2_sLOtO4Jvw_5VTdG4f9ilhXIJvnY12cm7X-NBXHO6DjnE
 * https://www.youtube.com/watch?v=Qb0dS7BAb6Q
+* https://www.youtube.com/watch?v=cTIHmbxDQRI
 
 ## Student with cruthches is arrested, put in police van | 2021-02-22
   
