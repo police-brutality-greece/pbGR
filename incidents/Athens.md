@@ -156,4 +156,14 @@ id:ath-21-02-21-01
 * https://twitter.com/antirinfo/status/1363143389030539265
 * https://twitter.com/d_maragoudaki/status/1363137458809032706
 * https://twitter.com/Covid19energoi/status/1363191930532884481
+    
+### Autistic man, child and bystanders arrested during a covid-19 related check | 2021-02-23
   
+tags: arrest, disabled, abuse-of-power  
+  
+id:ath-21-02-23-01  
+  
+**Links**  
+  
+* https://www.facebook.com/kostas.fleshart/videos/10226144332221791/
+* https://www.facebook.com/kenodiktuo/posts/3755422191216525
