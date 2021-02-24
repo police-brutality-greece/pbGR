@@ -179,3 +179,14 @@ id:ath-21-02-23-01
   
 * https://www.facebook.com/kostas.fleshart/videos/10226144332221791/
 * https://www.facebook.com/kenodiktuo/posts/3755422191216525
+
+  
+### Riot police push journalists attempting to document protestor arrest | 2021-02-24
+  
+tags: journalist, push  
+  
+id: ath-21-02-24-01  
+  
+**Links**
+  
+* https://twitter.com/synantisi/status/1364705160891629577
