@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-23T23:41:19.584787+00:00
+UPDATED AT: 2021-02-24T00:51:42.946138+00:00
 
 # Athens
 ## Athens
@@ -144,6 +144,16 @@ id: ath-21-02-10-07
 * https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
 * https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
 * https://www.efsyn.gr/node/281437
+  
+### Riot police kick fallen down protestor inside tear gas cloud | 2021-02-19
+  
+tags:kick, tear-gas, fallen
+  
+id:ath-21-02-19-01  
+  
+**Links**
+  
+* https://twitter.com/risinggalaxy/status/1362815860990234627
   
 ### Police officers stop protestors from leaving metro station, wait until curfew starts to arrest them | 2021-02-21  
   
