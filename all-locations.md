@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-24T00:53:36.971763+00:00
+UPDATED AT: 2021-02-24T00:55:08.577941+00:00
 
 # Athens
 ## Athens
@@ -172,6 +172,7 @@ id:ath-21-02-21-01
 * https://twitter.com/d_maragoudaki/status/1363137458809032706
 * https://twitter.com/Covid19energoi/status/1363191930532884481
 * https://twitter.com/risinggalaxy/status/1362815860990234627
+* https://twitter.com/antirinfo/status/1363156157087498241
     
 ### Autistic man, child and bystanders arrested during a covid-19 related check | 2021-02-23
   
