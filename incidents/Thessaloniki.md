@@ -37,6 +37,7 @@ id:thes-21-02-22-01
 * https://www.alfavita.gr/koinonia/344332_apth-basanismos-diadiloti-apo-astynomikoys-se-koini-thea-binteo?fbclid=IwAR25plc0cFudy2_sLOtO4Jvw_5VTdG4f9ilhXIJvnY12cm7X-NBXHO6DjnE
 * https://www.youtube.com/watch?v=Qb0dS7BAb6Q
 * https://www.youtube.com/watch?v=cTIHmbxDQRI
+* https://www.facebook.com/roukoschristos/videos/10225584691229942
 
 ## Student with cruthches is arrested, put in police van | 2021-02-22
   
