@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-24T23:26:49.175736+00:00
+UPDATED AT: 2021-02-25T22:11:57.399208+00:00
 
 # Athens
 ## Athens
@@ -345,7 +345,17 @@ id: thes-21-02-10-01
   
 **Links**  
   
-* https://www.youtube.com/watch?v=MjLRqzAFSdQ
+* https://www.youtube.com/watch?v=MjLRqzAFSdQ  
+  
+### Riot police push protestors with shields | 2021-01-14
+  
+tags: shield,push, student
+  
+id:thes-21-01-14-01  
+  
+**Links**
+* https://fb.watch/3TS6S_LnpB/
+  
 
 ## Riot police continuously assault arrested, fallen protestor in AUTH university | 2021-02-22
   
