@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-25T22:11:57.399208+00:00
+UPDATED AT: 2021-02-26T17:32:27.863782+00:00
 
 # Athens
 ## Athens
@@ -157,7 +157,7 @@ id:ath-21-02-19-01
   
 ### Police officers stop protestors from leaving metro station, wait until curfew starts to arrest them | 2021-02-21  
   
-tags: abuse-of-power, arrest  
+tags: abuse-of-power, arrest, metro 
   
 id:ath-21-02-21-01  
   
@@ -195,6 +195,39 @@ id: ath-21-02-24-01
 **Links**
   
 * https://twitter.com/synantisi/status/1364705160891629577
+
+### Member of Rouvikonas activist group is arrested outside his house | 2021-02-24
+  
+tags: arrest  
+  
+id:ath-21-02-24-2
+  
+**Links**
+  
+* https://www.youtube.com/watch?v=yUKHrmzixZA
+  
+### Riot police block protestors inside Omonoia Metro Station | 2021-02-26
+  
+tags: metro  
+  
+id: ath-21-02-26-01
+  
+**Links**
+  
+* https://twitter.com/BlxckMosquito/status/1365342428648132609
+* https://twitter.com/dromografos/status/1365337288536977414
+* https://thepressproject.gr/epithesi-tis-astynomias-stin-poreia-allilengyis-ston-apergo-peinas-d-koufontina
+  
+### Riot police harass journalists covering protest | 2021-02-26
+  
+tags: journalist  
+  
+id:ath-21-02-26-02  
+  
+**Links**  
+  
+* https://twitter.com/ChristofakisN/status/1365348315500576768
+* https://twitter.com/savvaskarma/status/1365342573485846534
 
 
 # Chania
