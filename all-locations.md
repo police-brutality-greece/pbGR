@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-26T20:09:59.474783+00:00
+UPDATED AT: 2021-02-26T21:14:57.176473+00:00
 
 # Athens
 ## Athens
@@ -230,6 +230,7 @@ id:ath-21-02-26-02
 * https://twitter.com/ChristofakisN/status/1365348315500576768
 * https://twitter.com/savvaskarma/status/1365342573485846534
 * https://twitter.com/bikosmariosraf/status/1365354829128867845
+* https://twitter.com/bikosmariosraf/status/1365355022863785988
 * https://twitter.com/dromografos/status/1365375391389614082
 
 
