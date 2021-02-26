@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-26T17:32:27.863782+00:00
+UPDATED AT: 2021-02-26T18:47:49.854897+00:00
 
 # Athens
 ## Athens
@@ -217,8 +217,9 @@ id: ath-21-02-26-01
 * https://twitter.com/BlxckMosquito/status/1365342428648132609
 * https://twitter.com/dromografos/status/1365337288536977414
 * https://thepressproject.gr/epithesi-tis-astynomias-stin-poreia-allilengyis-ston-apergo-peinas-d-koufontina
+* https://twitter.com/idiotypos/status/1365351001390252032
   
-### Riot police harass journalists covering protest | 2021-02-26
+### Riot police harass journalists who covered a protest, after a demonstration | 2021-02-26
   
 tags: journalist  
   
@@ -228,6 +229,7 @@ id:ath-21-02-26-02
   
 * https://twitter.com/ChristofakisN/status/1365348315500576768
 * https://twitter.com/savvaskarma/status/1365342573485846534
+* https://twitter.com/bikosmariosraf/status/1365354829128867845
 
 
 # Chania
