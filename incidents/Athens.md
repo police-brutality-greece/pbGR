@@ -201,7 +201,7 @@ id:ath-21-02-24-2
   
 * https://www.youtube.com/watch?v=yUKHrmzixZA
   
-### Riot police block protestors inside Omonoia Metro Station | 2021-02-26
+### Riot police tear gass and beat protestors inside Omonoia Metro Station | 2021-02-26
   
 tags: metro  
   
@@ -213,6 +213,8 @@ id: ath-21-02-26-01
 * https://twitter.com/dromografos/status/1365337288536977414
 * https://thepressproject.gr/epithesi-tis-astynomias-stin-poreia-allilengyis-ston-apergo-peinas-d-koufontina
 * https://twitter.com/idiotypos/status/1365351001390252032
+* https://twitter.com/savvaskarma/status/1365576528478818309
+* https://twitter.com/Ruptly/status/1365647879306702852
   
 ### Riot police harass journalists who covered a protest, after a demonstration | 2021-02-26
   
@@ -227,3 +229,6 @@ id:ath-21-02-26-02
 * https://twitter.com/bikosmariosraf/status/1365354829128867845
 * https://twitter.com/bikosmariosraf/status/1365355022863785988
 * https://twitter.com/dromografos/status/1365375391389614082
+* https://twitter.com/savvaskarma/status/1365564329530191873
+* https://twitter.com/lolosmarios/status/1365410430659813376
+* https://pressphoto-union.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b9%ce%b1-%cf%84%ce%b7%cf%82-%ce%b5%cf%86%ce%b5-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%cf%83%cf%85%ce%bd%ce%b5%cf%87%ce%b9%ce%b6%ce%bf%ce%bc%ce%b5/
