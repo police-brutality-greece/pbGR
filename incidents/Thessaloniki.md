@@ -33,7 +33,7 @@ id:thes-21-01-14-01
 * https://fb.watch/3TS6S_LnpB/
   
 
-## Riot police continuously assault arrested, fallen protestor in AUTH university | 2021-02-22
+## Riot police continuously assault and drag arrested, fallen student protestor in AUTH university | 2021-02-22
   
 tags:arrest, beat, fallen  
   
@@ -48,6 +48,7 @@ id:thes-21-02-22-01
 * https://www.youtube.com/watch?v=Qb0dS7BAb6Q
 * https://www.youtube.com/watch?v=cTIHmbxDQRI
 * https://www.facebook.com/roukoschristos/videos/10225584691229942
+* https://www.youtube.com/watch?v=cTIHmbxDQRI&feature=youtu.be
 
 ## Student with cruthches is arrested, put in police van | 2021-02-22
   
