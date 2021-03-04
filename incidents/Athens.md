@@ -128,7 +128,7 @@ id: ath-21-02-10-06
 **Links**  
 * https://twitter.com/JohnnyHoston/status/1359788935728226305
 
-### Group of officers throw down man and arrest him | 2021-02-10
+### Group of officers throw down 60 year old man and arrest him after he questioned arrest of protestor | 2021-02-10
   
 tags: elderly, tackle, inhumane-treatment  
   
