@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-02-28T18:03:14.963117+00:00
+UPDATED AT: 2021-03-04T23:39:08.298980+00:00
 
 # Athens
 ## Athens
@@ -133,7 +133,7 @@ id: ath-21-02-10-06
 **Links**  
 * https://twitter.com/JohnnyHoston/status/1359788935728226305
 
-### Group of officers throw down man and arrest him | 2021-02-10
+### Group of officers throw down 60 year old man and arrest him after he questioned arrest of protestor | 2021-02-10
   
 tags: elderly, tackle, inhumane-treatment  
   
