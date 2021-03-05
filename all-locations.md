@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-04T23:39:08.298980+00:00
+UPDATED AT: 2021-03-05T18:37:38.372166+00:00
 
 # Athens
 ## Athens
@@ -238,6 +238,40 @@ id:ath-21-02-26-02
 * https://twitter.com/lolosmarios/status/1365410430659813376
 * https://pressphoto-union.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b9%ce%b1-%cf%84%ce%b7%cf%82-%ce%b5%cf%86%ce%b5-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%cf%83%cf%85%ce%bd%ce%b5%cf%87%ce%b9%ce%b6%ce%bf%ce%bc%ce%b5/
 * https://www.facebook.com/permalink.php?story_fbid=148802653728458&id=100879595187431
+
+
+### Riot police violently push back protestors holding banner, using pepper spray | 2021-03-05
+
+tags: pepperspray  
+  
+id: ath-21-03-05-01  
+  
+**Links**
+  
+* https://mobile.twitter.com/StrangeLilBird1/status/1367869616970694660  
+
+### Water cannon and flashbang grenades is used against protestors holding banner, whil flashbangs explode | 2021-03-05
+  
+tags: watercannon
+  
+id:ath-21-03-05-02  
+  
+**Links**  
+  
+* https://mobile.twitter.com/ElladaPartizan/status/1367875527273504774
+* https://mobile.twitter.com/NIKSOTIROPOYLOS/status/1367879877655986178 
+* https://mobile.twitter.com/savvaskarma/status/1367897137049178121
+  
+### Riot police use water cannon, charge with motorcycles, and fire flashbangs at dispersed crowd | 2021-03-05
+  
+tags: flashbang, watercannon  
+  
+id:ath-21-03-05-03  
+  
+**Links**  
+  
+* https://mobile.twitter.com/VictorasAntono1/status/1367898462617010183
+
 
 
 # Chania
