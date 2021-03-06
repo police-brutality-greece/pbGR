@@ -268,3 +268,50 @@ id:ath-21-03-05-03
   
 * https://mobile.twitter.com/VictorasAntono1/status/1367898462617010183
 
+
+### Peaceful protesters are attacked with watercannon and teargas | 2021-03-06
+  
+tags:tags: teargas, watercannon
+  
+id: ath-21-03-06-01  
+  
+**Links**  
+  
+* https://twitter.com/kinimatini/status/1368235041369767940
+  
+  
+
+### Riot police push photojournalist to the ground | 2021-03-06
+  
+tags: journalist, push
+  
+id:  ath-21-03-06-02
+  
+**Links**  
+  
+* https://www.facebook.com/1744552009/videos/10208011709247601/
+* https://twitter.com/ThePressProject/status/1368153908900724737
+  
+
+
+### Peaceful banner holders are hit by watercannon | 2021-03-06
+  
+tags:  watercannon
+  
+id: ath-21-03-06-03
+  
+**Links**  
+  
+* https://fb.watch/43pO5NNCbX/
+* https://twitter.com/iamvosgr/status/1368199075770798080
+* https://twitter.com/VictorasAntono/status/1368213073518018565
+  
+### Riot police mace and push peaceful protestors holding banners | 2021-03-06
+  
+tags: tear-gas, push
+  
+id:  ath-21-03-06-04
+  
+**Links**  
+  
+* https://twitter.com/savvaskarma/status/1368165826789077000
