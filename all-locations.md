@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-07T18:23:28.258717+00:00
+UPDATED AT: 2021-03-07T19:27:32.299540+00:00
 
 # Athens
 ## Athens
@@ -372,6 +372,10 @@ id: ath-21-03-07-01
 * https://twitter.com/idiotypos/status/1368611549531811847
 * https://twitter.com/theFAQgr/status/1368609793594830853
 * https://www.facebook.com/1263266934/videos/10224871202788360/
+* https://twitter.com/Ralloukr/status/1368616669933928448
+* https://twitter.com/Ralloukr/status/1368586244368826368
+* https://www.amna.gr/home/article/534597/?fbclid=IwAR3hT6jCoGfz84ZAr0ftstek3UxSfkmrJCQWt6fPYzTDXqj7qQcynpf5lcI
+* https://www.youtube.com/watch?v=u3o3gds4Iaw
 
 
 # Chania
