@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-07T23:34:27.671284+00:00
+UPDATED AT: 2021-03-07T23:35:39.613942+00:00
 
 # Athens
 ## Athens
@@ -378,7 +378,7 @@ id: ath-21-03-07-01
 * https://www.youtube.com/watch?v=u3o3gds4Iaw
 
 
-### Riot police fire tear gas at protestor, next to bus | 2021-03-07  
+### Riot police fire tear gas at protestor, trapping moving bus with commuters inside | 2021-03-07  
   
 tags: teargas  
   
