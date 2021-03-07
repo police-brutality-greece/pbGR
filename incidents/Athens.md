@@ -315,3 +315,15 @@ id:  ath-21-03-06-04
 **Links**  
   
 * https://twitter.com/savvaskarma/status/1368165826789077000
+  
+  
+### Group of policemen arrest single protestor in street market | 2021-03-06  
+  
+tags:arrest  
+  
+id: ath-21-03-06-05  
+  
+**Links**
+  
+* https://twitter.com/GellyKonst/status/1368156357698981889
+* https://twitter.com/entimos3/status/1368211775884300288
