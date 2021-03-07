@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-06T17:44:03.494835+00:00
+UPDATED AT: 2021-03-07T08:53:06.030050+00:00
 
 # Athens
 ## Athens
@@ -320,6 +320,18 @@ id:  ath-21-03-06-04
 **Links**  
   
 * https://twitter.com/savvaskarma/status/1368165826789077000
+  
+  
+### Group of policemen arrest single protestor in street market | 2021-03-06  
+  
+tags:arrest  
+  
+id: ath-21-03-06-05  
+  
+**Links**
+  
+* https://twitter.com/GellyKonst/status/1368156357698981889
+* https://twitter.com/entimos3/status/1368211775884300288
 
 
 # Chania
