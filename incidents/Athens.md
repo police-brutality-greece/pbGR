@@ -361,7 +361,7 @@ id: ath-21-03-07-01
 * https://www.facebook.com/100004184910396/posts/1846321432184003/
 * https://twitter.com/ThePressProject/status/1368569669431554051
 * https://twitter.com/NikolaosZenetos/status/1368578080957140993
-* https://www.youtube.com/watch?v=dXC4Af9c_oY&feature=emb_logo
+* https://www.youtube.com/watch?v=dXC4Af9c_oY
 * https://twitter.com/Covid19energoi/status/1368598781198020609
 * https://twitter.com/MUGABE_ROBERT_/status/1368597258724384769
 * https://twitter.com/idiotypos/status/1368611549531811847
@@ -369,5 +369,5 @@ id: ath-21-03-07-01
 * https://www.facebook.com/1263266934/videos/10224871202788360/
 * https://twitter.com/Ralloukr/status/1368616669933928448
 * https://twitter.com/Ralloukr/status/1368586244368826368
-* https://www.amna.gr/home/article/534597/?fbclid=IwAR3hT6jCoGfz84ZAr0ftstek3UxSfkmrJCQWt6fPYzTDXqj7qQcynpf5lcI
+* https://www.amna.gr/home/article/534597
 * https://www.youtube.com/watch?v=u3o3gds4Iaw
