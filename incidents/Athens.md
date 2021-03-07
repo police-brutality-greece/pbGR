@@ -367,3 +367,7 @@ id: ath-21-03-07-01
 * https://twitter.com/idiotypos/status/1368611549531811847
 * https://twitter.com/theFAQgr/status/1368609793594830853
 * https://www.facebook.com/1263266934/videos/10224871202788360/
+* https://twitter.com/Ralloukr/status/1368616669933928448
+* https://twitter.com/Ralloukr/status/1368586244368826368
+* https://www.amna.gr/home/article/534597/?fbclid=IwAR3hT6jCoGfz84ZAr0ftstek3UxSfkmrJCQWt6fPYzTDXqj7qQcynpf5lcI
+* https://www.youtube.com/watch?v=u3o3gds4Iaw
