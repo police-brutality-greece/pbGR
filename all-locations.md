@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-07T08:53:06.030050+00:00
+UPDATED AT: 2021-03-07T09:27:23.297455+00:00
 
 # Athens
 ## Athens
@@ -332,6 +332,16 @@ id: ath-21-03-06-05
   
 * https://twitter.com/GellyKonst/status/1368156357698981889
 * https://twitter.com/entimos3/status/1368211775884300288
+  
+### Riot police officers swear and push protestor | 2021-03-06
+  
+tags: push  
+  
+id: ath-21-03-06-06  
+  
+**Links**
+  
+* https://twitter.com/t_p12/status/1368485310355628032
 
 
 # Chania
