@@ -338,6 +338,7 @@ id: ath-21-03-06-06
 **Links**
   
 * https://twitter.com/t_p12/status/1368485310355628032
+* https://twitter.com/panagsotiris/status/1368178368328392704
   
 ### Police officers on motorbikes are seen confiscating banners from protestors | 21-03-06  
   
@@ -348,3 +349,21 @@ id: ath-21-03-06-07
 **Links**
   
 * https://twitter.com/anticapitalist_/status/1368141316333465602
+  
+### Police officers tackle, beat and arrest man protesting  outside polispark square, Nea Smirni | 21-03-07
+  
+tags:beat, arrest  
+  
+id: ath-21-03-07-01  
+  
+**Links**  
+  
+* https://www.facebook.com/100004184910396/posts/1846321432184003/
+* https://twitter.com/ThePressProject/status/1368569669431554051
+* https://twitter.com/NikolaosZenetos/status/1368578080957140993
+* https://www.youtube.com/watch?v=dXC4Af9c_oY&feature=emb_logo
+* https://twitter.com/Covid19energoi/status/1368598781198020609
+* https://twitter.com/MUGABE_ROBERT_/status/1368597258724384769
+* https://twitter.com/idiotypos/status/1368611549531811847
+* https://twitter.com/theFAQgr/status/1368609793594830853
+* https://www.facebook.com/1263266934/videos/10224871202788360/
