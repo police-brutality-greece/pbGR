@@ -373,7 +373,7 @@ id: ath-21-03-07-01
 * https://www.youtube.com/watch?v=u3o3gds4Iaw
 
 
-### Riot police fire tear gas at protestor, next to bus | 2021-03-07  
+### Riot police fire tear gas at protestor, trapping moving bus with commuters inside | 2021-03-07  
   
 tags: teargas  
   
