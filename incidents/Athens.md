@@ -327,6 +327,7 @@ id: ath-21-03-06-05
   
 * https://twitter.com/GellyKonst/status/1368156357698981889
 * https://twitter.com/entimos3/status/1368211775884300288
+* https://www.facebook.com/100002483064792/videos/3735923443167054/
   
 ### Riot police officers swear and push protestor | 2021-03-06
   
@@ -337,3 +338,13 @@ id: ath-21-03-06-06
 **Links**
   
 * https://twitter.com/t_p12/status/1368485310355628032
+  
+### Police officers on motorbikes are seen confiscating banners from protestors | 21-03-06  
+  
+tags: confiscate  
+  
+id: ath-21-03-06-07  
+  
+**Links**
+  
+* https://twitter.com/anticapitalist_/status/1368141316333465602
