@@ -385,4 +385,15 @@ id: ath-21-03-07-02
 **Links**  
   
 * https://twitter.com/velocity2121/status/1368663472838475778
+  
+### Police on motorbikes (DELTA) break parked car light and leave (hit and run), later arrest man on same spot | 2021-03-08
+  
+tags: break, motorbike  
+  
+id:ath-21-03-08-01  
+  
+**Links**  
+  
+* https://twitter.com/NikosBovolos/status/1369006014671032326
+* https://twitter.com/NikosBovolos/status/1369005283909992453
 
