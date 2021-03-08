@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-08T12:00:22.383281+00:00
+UPDATED AT: 2021-03-08T19:40:21.125781+00:00
 
 # Athens
 ## Athens
@@ -390,6 +390,17 @@ id: ath-21-03-07-02
 **Links**  
   
 * https://twitter.com/velocity2121/status/1368663472838475778
+  
+### Police on motorbikes (DELTA) break parked car light and leave (hit and run), later arrest man on same spot | 2021-03-08
+  
+tags: break, motorbike  
+  
+id:ath-21-03-08-01  
+  
+**Links**  
+  
+* https://twitter.com/NikosBovolos/status/1369006014671032326
+* https://twitter.com/NikosBovolos/status/1369005283909992453
 
 
 
