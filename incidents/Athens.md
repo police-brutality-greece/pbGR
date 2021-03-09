@@ -476,3 +476,14 @@ id:ath-21-03-09-07
 **Links**  
   
 * https://twitter.com/Theurgia_Goetia/status/1369408484110962692
+  
+  
+### Police drag hidden protestor and force him onto the ground, group around him and beat thim | 2021-03-09  
+  
+tags: fallen, kick  
+  
+id: ath-21-03-09-08  
+  
+**Links**  
+  
+* https://twitter.com/_Spock_Vulcan/status/1369404445977612289
