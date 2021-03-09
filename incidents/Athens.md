@@ -498,3 +498,14 @@ id: ath-21-03-09-09
 **Links**  
   
 * https://twitter.com/paokland/status/1369401987356319753
+  
+  
+### Group of police officers on motorbikes shout that they will "fuck" and "kill" protestors | 2021-03-09  
+  
+tags: verbal-abuse  
+  
+id: ath-21-03-09-10  
+  
+**Links**  
+  
+* https://twitter.com/bikosmariosraf/status/1369419208543641606
