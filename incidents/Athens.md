@@ -434,6 +434,7 @@ id:ath-21-03-09-03
 **Links**  
   
 * https://www.youtube.com/watch?v=cSVTT-V75CY
+* https://twitter.com/maurolabaro/status/1369389411935326208
 
 ### Riot police fire flashbang grenades towards other riot police, an injured officer and reporters | 2021-03-09
   
@@ -444,4 +445,23 @@ id:ath-21-03-09-04
 **Links**  
   
 * https://facebook.com/story.php?story_fbid=212153770692118&id=103041654936664
-* 
+  
+### Police officers are seen pushing and beating isolated people in Nea Smirni | 2021-03-09  
+  
+tags: beat, push, kick  
+  
+id:ath-21-03-09-05  
+  
+**Links**  
+  
+* https://twitter.com/annyy_An/status/1369384161509842946
+  
+  ### Fallen person is seen to be kicked and pushed around by group of police officers | 2021-03-09
+   
+ tags: kick, fallen, beat  
+   
+ id: ath-21-03-09-06  
+   
+ **Links**  
+   
+ * https://twitter.com/fishermanos/status/1369394618182295568
