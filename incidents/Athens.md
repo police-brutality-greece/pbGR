@@ -400,8 +400,7 @@ id:ath-21-03-08-01
 * https://twitter.com/NikosBovolos/status/1369005283909992453
 * https://twitter.com/hellenicpolice/status/1369257644494630916
 
-### Police officer 
-  
+
 ### Police officer pushes back journalist recording video of arrest | 2021-03-09  
   
 tags: push, journalist
@@ -457,7 +456,7 @@ id:ath-21-03-09-05
   
 * https://twitter.com/annyy_An/status/1369384161509842946
   
-  ### Fallen person is seen to be kicked and pushed around by group of police officers | 2021-03-09
+### Fallen person is seen to be kicked and pushed around by group of police officers | 2021-03-09
    
  tags: kick, fallen, beat  
    
