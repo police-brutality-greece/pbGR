@@ -465,3 +465,14 @@ id:ath-21-03-09-05
  **Links**  
    
  * https://twitter.com/fishermanos/status/1369394618182295568
+  
+  
+### Policeman on bike points pistol towards area where protestors are situated | 2021-03-09  
+  
+tags: pistol  
+  
+id:ath-21-03-09-07  
+  
+**Links**  
+  
+* https://twitter.com/Theurgia_Goetia/status/1369408484110962692
