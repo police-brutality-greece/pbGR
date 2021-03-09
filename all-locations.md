@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-09T20:26:48.132941+00:00
+UPDATED AT: 2021-03-09T23:24:04.049449+00:00
 
 # Athens
 ## Athens
@@ -345,6 +345,7 @@ id: ath-21-03-06-06
   
 * https://twitter.com/t_p12/status/1368485310355628032
 * https://twitter.com/panagsotiris/status/1368178368328392704
+* https://www.youtube.com/watch?v=sMfHuOPm_Uw
   
 ### Police officers on motorbikes are seen confiscating banners from protestors | 21-03-06  
   
@@ -403,16 +404,18 @@ id:ath-21-03-08-01
 * https://twitter.com/NikosBovolos/status/1369006014671032326
 * https://twitter.com/NikosBovolos/status/1369005283909992453
 * https://twitter.com/hellenicpolice/status/1369257644494630916
+
+
+### Police officer pushes back journalist recording video of arrest | 2021-03-09  
   
-### Police officer pushes back man recording video of arrest | 2021-03-09  
-  
-tags: push
+tags: push, journalist
   
 id:ath-21-03-09-01  
   
 **Links**
   
 * https://twitter.com/BBasket69/status/1369376770131177479
+* https://twitter.com/Marka149133376/status/1369423608750170118
   
 ### Police beat man inside shop, drag him outside and throw him onto the ground | 2021-03-09  
   
@@ -425,6 +428,92 @@ id: ath-21-03-09-02
 * https://twitter.com/exiledarizona/status/1369381929838084108
 * https://twitter.com/nihilbyte/status/1369381604779581446
 * https://www.facebook.com/watch/?v=471569807198737
+  
+  
+### Police officer slaps woman protesting an arrest | 2021-03-09  
+  
+tags: beat, verbal-abuse  
+  
+id:ath-21-03-09-03  
+  
+**Links**  
+  
+* https://www.youtube.com/watch?v=cSVTT-V75CY
+* https://twitter.com/maurolabaro/status/1369389411935326208
+
+### Riot police fire flashbang grenades towards other riot police, an injured officer and reporters | 2021-03-09
+  
+tags:flashbang, journalist  
+  
+id:ath-21-03-09-04  
+  
+**Links**  
+  
+* https://facebook.com/story.php?story_fbid=212153770692118&id=103041654936664
+  
+### Police officers are seen pushing and beating isolated people in Nea Smirni | 2021-03-09  
+  
+tags: beat, push, kick  
+  
+id:ath-21-03-09-05  
+  
+**Links**  
+  
+* https://twitter.com/annyy_An/status/1369384161509842946
+  
+### Fallen person is seen to be kicked and pushed around by group of police officers | 2021-03-09
+   
+ tags: kick, fallen, beat  
+   
+ id: ath-21-03-09-06  
+   
+ **Links**  
+   
+ * https://twitter.com/fishermanos/status/1369394618182295568
+  
+  
+### Policeman on bike points pistol towards area where protestors are situated | 2021-03-09  
+  
+tags: pistol  
+  
+id:ath-21-03-09-07  
+  
+**Links**  
+  
+* https://twitter.com/Theurgia_Goetia/status/1369408484110962692
+* https://facebook.com/story.php?story_fbid=3787506067954482&id=100000853780232
+  
+  
+### Police drag hidden protestor and force him onto the ground, group around him and beat thim | 2021-03-09  
+  
+tags: fallen, kick  
+  
+id: ath-21-03-09-08  
+  
+**Links**  
+  
+* https://twitter.com/_Spock_Vulcan/status/1369404445977612289  
+  
+### Group of police officers with motorbikes charge into protestors using flashbangs, policeman is dropped from motorbike | 2021-03-09
+  
+tags: flashbang  
+  
+id: ath-21-03-09-09  
+  
+**Links**  
+  
+* https://twitter.com/paokland/status/1369401987356319753
+  
+  
+### Group of police officers on motorbikes shout that they will "fuck" and "kill" protestors | 2021-03-09  
+  
+tags: verbal-abuse  
+  
+id: ath-21-03-09-10  
+  
+**Links**  
+  
+* https://twitter.com/bikosmariosraf/status/1369419208543641606
 
 
 # Chania
