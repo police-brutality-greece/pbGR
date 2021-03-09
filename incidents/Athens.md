@@ -398,4 +398,25 @@ id:ath-21-03-08-01
 * https://twitter.com/NikosBovolos/status/1369006014671032326
 * https://twitter.com/NikosBovolos/status/1369005283909992453
 * https://twitter.com/hellenicpolice/status/1369257644494630916
-
+  
+### Police officer pushes back man recording video of arrest | 2021-03-09  
+  
+tags: push
+  
+id:ath-21-03-09-01  
+  
+**Links**
+  
+* https://twitter.com/BBasket69/status/1369376770131177479
+  
+### Police beat man inside shop, drag him outside and throw him onto the ground | 2021-03-09  
+  
+tags: beat  
+  
+id: ath-21-03-09-02  
+  
+**Links**  
+  
+* https://twitter.com/exiledarizona/status/1369381929838084108
+* https://twitter.com/nihilbyte/status/1369381604779581446
+* https://www.facebook.com/watch/?v=471569807198737
