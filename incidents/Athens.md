@@ -476,6 +476,7 @@ id:ath-21-03-09-07
 **Links**  
   
 * https://twitter.com/Theurgia_Goetia/status/1369408484110962692
+* https://facebook.com/story.php?story_fbid=3787506067954482&id=100000853780232
   
   
 ### Police drag hidden protestor and force him onto the ground, group around him and beat thim | 2021-03-09  
@@ -486,4 +487,14 @@ id: ath-21-03-09-08
   
 **Links**  
   
-* https://twitter.com/_Spock_Vulcan/status/1369404445977612289
+* https://twitter.com/_Spock_Vulcan/status/1369404445977612289  
+  
+### Group of police officers with motorbikes charge into protestors using flashbangs, policeman is dropped from motorbike | 2021-03-09
+  
+tags: flashbang  
+  
+id: ath-21-03-09-09  
+  
+**Links**  
+  
+* https://twitter.com/paokland/status/1369401987356319753
