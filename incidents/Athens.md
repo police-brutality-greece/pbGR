@@ -340,6 +340,7 @@ id: ath-21-03-06-06
   
 * https://twitter.com/t_p12/status/1368485310355628032
 * https://twitter.com/panagsotiris/status/1368178368328392704
+* https://www.youtube.com/watch?v=sMfHuOPm_Uw
   
 ### Police officers on motorbikes are seen confiscating banners from protestors | 21-03-06  
   
@@ -398,6 +399,8 @@ id:ath-21-03-08-01
 * https://twitter.com/NikosBovolos/status/1369006014671032326
 * https://twitter.com/NikosBovolos/status/1369005283909992453
 * https://twitter.com/hellenicpolice/status/1369257644494630916
+
+### Police officer 
   
 ### Police officer pushes back man recording video of arrest | 2021-03-09  
   
@@ -420,3 +423,25 @@ id: ath-21-03-09-02
 * https://twitter.com/exiledarizona/status/1369381929838084108
 * https://twitter.com/nihilbyte/status/1369381604779581446
 * https://www.facebook.com/watch/?v=471569807198737
+  
+  
+### Police officer slaps woman protesting an arrest | 2021-03-09  
+  
+tags: beat, verbal-abuse  
+  
+id:ath-21-03-09-03  
+  
+**Links**  
+  
+* https://www.youtube.com/watch?v=cSVTT-V75CY
+
+### Riot police fire flashbang grenades towards other riot police, an injured officer and reporters | 2021-03-09
+  
+tags:flashbang, journalist  
+  
+id:ath-21-03-09-04  
+  
+**Links**  
+  
+* https://facebook.com/story.php?story_fbid=212153770692118&id=103041654936664
+* 
