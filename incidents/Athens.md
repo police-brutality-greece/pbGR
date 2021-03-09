@@ -402,15 +402,16 @@ id:ath-21-03-08-01
 
 ### Police officer 
   
-### Police officer pushes back man recording video of arrest | 2021-03-09  
+### Police officer pushes back journalist recording video of arrest | 2021-03-09  
   
-tags: push
+tags: push, journalist
   
 id:ath-21-03-09-01  
   
 **Links**
   
 * https://twitter.com/BBasket69/status/1369376770131177479
+* https://twitter.com/Marka149133376/status/1369423608750170118
   
 ### Police beat man inside shop, drag him outside and throw him onto the ground | 2021-03-09  
   
