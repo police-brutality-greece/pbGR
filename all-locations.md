@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-10T20:04:00.829217+00:00
+UPDATED AT: 2021-03-10T20:08:14.681660+00:00
 
 # Athens
 ## Athens
@@ -554,8 +554,16 @@ id: ath-21-03-09-12
 **Links**  
   
 * https://www.youtube.com/watch?v=5l-F-4GKDNo  
-  
 
+### Police assault and keep person on the ground, while passerbys shout at them for his release | 2021-03-10  
+  
+tags: beat, fallen, arrest  
+  
+id: ath-21-03-10-01  
+  
+**Links**  
+  
+* https://twitter.com/ionasrb/status/1369727478403579911
 
 
 # Chania
