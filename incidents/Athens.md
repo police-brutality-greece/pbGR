@@ -522,3 +522,24 @@ id: ath-21-03-09-11
 **Links**  
   
 * https://twitter.com/dromografos/status/1369539907618758661  
+  
+  
+### Police officer runs aggresively towards photojournalist while swearing at them | 2021-03-09  
+  
+tags: journalist  
+  
+id: ath-21-03-09-12  
+  
+**Links**  
+  
+* https://www.youtube.com/watch?v=5l-F-4GKDNo  
+  
+### Police motorbikes hits protestor from behind him | 2021-03-09  
+  
+tags: motorbike  
+  
+id: ath-21-03-09-13  
+  
+**Links**  
+  
+* https://mobile.twitter.com/murplejane/status/1369619046233214981
