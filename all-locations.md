@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-10T16:30:14.032579+00:00
+UPDATED AT: 2021-03-10T17:01:11.666449+00:00
 
 # Athens
 ## Athens
@@ -415,9 +415,9 @@ id:ath-21-03-08-01
 * https://twitter.com/hellenicpolice/status/1369257644494630916
 
 
-### Police officer pushes back journalist recording video of arrest | 2021-03-09  
+### Police motorbikes hits protestor on his back, arrest him and then push back journalists covering arrest | 2021-03-09   
   
-tags: push, journalist
+tags: motorbike, arrest, journalist, push  
   
 id:ath-21-03-09-01  
   
@@ -425,6 +425,10 @@ id:ath-21-03-09-01
   
 * https://twitter.com/BBasket69/status/1369376770131177479
 * https://twitter.com/Marka149133376/status/1369423608750170118
+* https://mobile.twitter.com/murplejane/status/1369619046233214981  
+* https://www.youtube.com/watch?v=026ATPW6ihI  
+* https://twitter.com/VictorasAntono/status/1369377055033458695  
+  
   
 ### Police beat man inside shop, drag him outside and throw him onto the ground | 2021-03-09  
   
@@ -549,15 +553,7 @@ id: ath-21-03-09-12
   
 * https://www.youtube.com/watch?v=5l-F-4GKDNo  
   
-### Police motorbikes hits protestor from behind him | 2021-03-09  
-  
-tags: motorbike  
-  
-id: ath-21-03-09-13  
-  
-**Links**  
-  
-* https://mobile.twitter.com/murplejane/status/1369619046233214981
+
 
 
 # Chania
