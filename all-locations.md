@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-10T13:32:29.076851+00:00
+UPDATED AT: 2021-03-10T16:30:14.032579+00:00
 
 # Athens
 ## Athens
@@ -27,9 +27,18 @@ id:ath-20-09-30-01
 **Links**  
   
 * https://www.youtube.com/watch?v=NNr-pjmfNFs  
-
-
-### Riot police rush into apartment building, using a flash grenade inside it | 2020-06-12
+  
+### Family is arrested for no reason in Sepolia, Athens | 2020-11-17  
+  
+tags: arrest, abuse-of-power  
+  
+id:ath-20-11-17-01  
+  
+**Links**  
+  
+* https://www.facebook.com/Covid19Solidarity/videos/2858985454358294
+  
+### Riot police rush into apartment building, using a flash grenade inside it | 2020-12-06
   
 tags: flash-grenade  
   
@@ -40,7 +49,7 @@ id: ath-20-12-06-01
 * https://www.youtube.com/watch?v=CziEh9BTMPk
 * https://twitter.com/Souidos/status/1335560846286729216
   
-### Police officers destroy flowers dedicated to memory of A. Grigoropoulos | 2020-06-12
+### Police officers destroy flowers dedicated to memory of A. Grigoropoulos | 2020-12-06
   
 tags: property-destruction  
   
