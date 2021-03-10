@@ -12,7 +12,20 @@ id:ath-20-02-24-01
 * https://www.youtube.com/watch?v=VntYDd2CWjU
 
 
+### Police beat, throw to the ground protestor and friend who came to his help | 202-07-15
+  
+tags: beat, arrest  
+  
+id:ath-20-07-15-01  
+  
+**Links**  
+  
+* https://twitter.com/a13x____/status/1369577731554476033
+* https://www.youtube.com/watch?v=QrI0WqOu7zk
+* https://www.nsfwyoutube.com/watchmore?v=rQzI2uMygok
+* https://www.youtube.com/watch?v=Ay2gnm5BPgw
 
+  
 ### Riot police push and harrass group of protesters holding banner | 2020-09-30
   
 tags: threaten, push  
