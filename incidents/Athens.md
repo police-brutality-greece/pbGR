@@ -549,5 +549,13 @@ id: ath-21-03-09-12
 **Links**  
   
 * https://www.youtube.com/watch?v=5l-F-4GKDNo  
-  
 
+### Police assault and keep person on the ground, while passerbys shout at them for his release | 2021-03-10  
+  
+tags: beat, fallen, arrest  
+  
+id: ath-21-03-10-01  
+  
+**Links**  
+  
+* https://twitter.com/ionasrb/status/1369727478403579911
