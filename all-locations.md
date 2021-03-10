@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-09T23:24:04.049449+00:00
+UPDATED AT: 2021-03-10T10:46:39.857358+00:00
 
 # Athens
 ## Athens
@@ -492,7 +492,8 @@ id: ath-21-03-09-08
   
 **Links**  
   
-* https://twitter.com/_Spock_Vulcan/status/1369404445977612289  
+* https://twitter.com/_Spock_Vulcan/status/1369404445977612289 
+* https://twitter.com/i/status/1369370941558566918 
   
 ### Group of police officers with motorbikes charge into protestors using flashbangs, policeman is dropped from motorbike | 2021-03-09
   
