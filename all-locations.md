@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-10T17:01:11.666449+00:00
+UPDATED AT: 2021-03-10T20:04:00.829217+00:00
 
 # Athens
 ## Athens
@@ -475,6 +475,8 @@ id:ath-21-03-09-05
 * https://twitter.com/annyy_An/status/1369384161509842946
 * https://twitter.com/i/status/1369369633300615173
 * https://twitter.com/i/status/1369397247184666648
+* https://twitter.com/i/status/1369397247184666648
+* https://youtu.be/pp4RTHbaqAQ?t=117
   
 ### Fallen person is seen to be kicked and pushed around by group of police officers | 2021-03-09
    
