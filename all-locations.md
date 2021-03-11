@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-11T10:34:43.072617+00:00
+UPDATED AT: 2021-03-11T12:01:40.436308+00:00
 
 # Athens
 ## Athens
@@ -546,6 +546,7 @@ id: ath-21-03-09-10
 **Links**  
   
 * https://twitter.com/bikosmariosraf/status/1369419208543641606
+* https://mobile.twitter.com/echatzidakis/status/1369757182053453825
 
 ### Molotov cocktail is thrown towards protestors from police's side | 2021-03-09  
   
