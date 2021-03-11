@@ -541,6 +541,7 @@ id: ath-21-03-09-10
 **Links**  
   
 * https://twitter.com/bikosmariosraf/status/1369419208543641606
+* https://mobile.twitter.com/echatzidakis/status/1369757182053453825
 
 ### Molotov cocktail is thrown towards protestors from police's side | 2021-03-09  
   
