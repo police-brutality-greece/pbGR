@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-11T14:42:37.702775+00:00
+UPDATED AT: 2021-03-11T14:50:02.713563+00:00
 
 # Athens
 ## Athens
@@ -792,6 +792,7 @@ id: thes-21-03-11-01
 * https://mobile.twitter.com/velocity2121/status/1369928842777874434
 * https://mobile.twitter.com/velocity2121/status/1369939425229217792
 * https://mobile.twitter.com/velocity2121/status/1369934459018088451
+* https://twitter.com/anthi7vas/status/1369900341056131076
   
 ### Journalist is chased alonside students, while been verbally assaulted | 2021-03-11-01  
   
