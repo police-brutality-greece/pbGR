@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-10T20:24:08.589162+00:00
+UPDATED AT: 2021-03-11T10:34:43.072617+00:00
 
 # Athens
 ## Athens
@@ -776,6 +776,30 @@ id: thes-21-02-22-03
 **Links**  
   
 * https://fb.watch/3PCKbEJvNk/
+
+
+### Riot police assault protesting students,beating, pushing them and spraying tear gas | 2021-03-11-01
+  
+tags: push, teargas, verbal-abuse, beat  
+  
+id: thes-21-03-11-01  
+  
+**Links**  
+  
+* https://mobile.twitter.com/atromitos57/status/1369913433336991748
+* https://mobile.twitter.com/velocity2121/status/1369928842777874434
+* https://mobile.twitter.com/velocity2121/status/1369939425229217792
+* https://mobile.twitter.com/velocity2121/status/1369934459018088451
+  
+### Journalist is chased alonside students, while been verbally assaulted | 2021-03-11-01  
+  
+tags: verbal-abuse  
+  
+id: thes-21-03-11-02  
+  
+**Links**  
+  
+* https://www.facebook.com/story.php?story_fbid=3245973778836833&id=100002727274353
 
 
 # Volos
