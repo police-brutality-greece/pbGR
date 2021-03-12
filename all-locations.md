@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-12T00:27:59.369418+00:00
+UPDATED AT: 2021-03-12T18:52:14.139878+00:00
 
 # Athens
 ## Athens
