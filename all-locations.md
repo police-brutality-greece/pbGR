@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-11T14:50:02.713563+00:00
+UPDATED AT: 2021-03-12T00:27:59.369418+00:00
 
 # Athens
 ## Athens
@@ -568,6 +568,17 @@ id: ath-21-03-09-12
 **Links**  
   
 * https://www.youtube.com/watch?v=5l-F-4GKDNo  
+
+  
+### Girl is kicked and tackled by group of police officers at Nea Smirni | 2021-03-09  
+  
+tags: kick, tackle  
+  
+id: ath-21-03-09-13  
+  
+**Links**  
+  
+* https://twitter.com/TasteOfAnarchy/status/1370164613862547456
 
 ### Police assault and keep person on the ground, while passerbys shout at them for his release | 2021-03-10  
   
