@@ -103,7 +103,7 @@ id: ath-21-02-10-02
   
 * https://www.alfavita.gr/koinonia/343527_syllalitirio-epithesi-ston-fotoreporter-g-liako-kataggellei-i-efe
 * https://www.facebook.com/marios.lolos.1/posts/10215287559581
-* https://twitter.com/savvaskarma/status/1359488012002988034?fbclid=IwAR1VYQw6_TsuQnU_iw8Di3wjDA8lVIed2Lap3b8iT4-mHiuLT-sx19QIOPA 
+* https://twitter.com/savvaskarma/status/1359488012002988034
 * https://www.facebook.com/marios.lolos.1/posts/10215287559581220
 
 
@@ -158,9 +158,8 @@ id: ath-21-02-10-07
   
 **Links**  
   
-* https://twitter.com/3pointmagazine/status/1359587903115034625?s=19&fbclid=IwAR1Zy3eiYcFDwRlMjz24HTVECa6YyHrco9-0IWohiNRA9BIsZZFnAs6dXSQ
-* https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada/?fbclid=IwAR2nMkLzzLGfVRnnUCEmCGBbtbl0YwB75h5M1Tqzn2ymb1yihb8T-amus6g  
-* https://www.efsyn.gr/node/281437
+* https://twitter.com/3pointmagazine/status/1359587903115034625?s=19
+* https://www.imerodromos.gr/as-moy-exigisei-o-kyrios-chrysocho-dis-giati-me-synelavan-ki-emeina-ena-vrady-sti-gada
   
 ### Riot police kick fallen down protestor inside tear gas cloud | 2021-02-19
   
@@ -551,7 +550,8 @@ id: ath-21-03-09-11
   
 **Links**  
   
-* https://twitter.com/dromografos/status/1369539907618758661  
+* https://twitter.com/dromografos/status/1369539907618758661
+* https://twitter.com/velocity2121/status/1370328174924599298  
   
   
 ### Police officer runs aggresively towards photojournalist while swearing at them | 2021-03-09  
@@ -565,7 +565,7 @@ id: ath-21-03-09-12
 * https://www.youtube.com/watch?v=5l-F-4GKDNo  
 
   
-### Girl is kicked and tackled by group of police officers at Nea Smirni | 2021-03-09  
+### Girl is kicked and tackled by group of police officers at Nea Smirni, after attempting to rescue fallen friend | 2021-03-09  
   
 tags: kick, tackle  
   
@@ -574,6 +574,8 @@ id: ath-21-03-09-13
 **Links**  
   
 * https://twitter.com/TasteOfAnarchy/status/1370164613862547456
+* https://twitter.com/kinimatini/status/1370459969359917058
+* https://tvxs.gr/news/ellada/i-dikigoros-tis-18xronis-efis-sto-tvxsgr-%E2%80%93-ksylodarmos-kai-seksoyaliki-epithesi-apo-asty
 
 ### Police assault and keep person on the ground, while passerbys shout at them for his release | 2021-03-10  
   
@@ -585,3 +587,13 @@ id: ath-21-03-10-01
   
 * https://twitter.com/i_omikron/status/1369723372263903242?s=20
 
+  
+### Police enter apartment building and drag arrester person outside, hit girl covering the event | 2021-03-11
+  
+tags: arrest, hit  
+  
+id: ath-21-03-11-01  
+  
+**Links**  
+  
+* https://mobile.twitter.com/hereticProvo/status/1370406270952472584
