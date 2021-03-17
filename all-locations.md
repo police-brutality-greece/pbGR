@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-12T21:51:07.271298+00:00
+UPDATED AT: 2021-03-17T00:21:36.807771+00:00
 
 # Athens
 ## Athens
@@ -602,6 +602,16 @@ id: ath-21-03-11-01
 **Links**  
   
 * https://mobile.twitter.com/hereticProvo/status/1370406270952472584
+  
+### Iraqi migrant is beat from group of police officers | 2021-03-16  
+  
+tags: beat  
+  
+id: ath-21-03-16-01  
+  
+**Links**  
+  
+* https://www.facebook.com/policeviolenceexperiences/videos/384390436075670/
 
 
 # Chania
