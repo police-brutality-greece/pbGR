@@ -597,3 +597,13 @@ id: ath-21-03-11-01
 **Links**  
   
 * https://mobile.twitter.com/hereticProvo/status/1370406270952472584
+  
+### Iraqi migrant is beat from group of police officers | 2021-03-16  
+  
+tags: beat  
+  
+id: ath-21-03-16-01  
+  
+**Links**  
+  
+* https://www.facebook.com/policeviolenceexperiences/videos/384390436075670/
