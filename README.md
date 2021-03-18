@@ -12,5 +12,8 @@ Otherwise **send an email** containing the incident date, location (city) and a 
   
 
 An [official report](https://www.reader.gr/news/koinonia/343069/ekthesi-epitropis-alivizatoy-gia-astynomiki-atimorisia-aprothymia-merolipsia) about impunity of ELAS (greek police) members came out at 4 May 2020 (published in November 2020) 
+  
+If you wish to see all incidents, view: https://github.com/police-brutality-greece/pbGR/blob/data_build/all-locations.md  
+  
 
 
