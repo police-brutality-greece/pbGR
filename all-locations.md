@@ -1,6 +1,6 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/pg-gr/police-brutality-greece
-UPDATED AT: 2021-03-18T17:52:27.531211+00:00
+UPDATED AT: 2021-03-25T22:19:23.268412+00:00
 
 # Athens
 ## Athens
@@ -612,6 +612,15 @@ id: ath-21-03-16-01
 **Links**  
   
 * https://www.facebook.com/policeviolenceexperiences/videos/384390436075670/
+
+### Police officer pushes protester with his shield, Syntagma square | 2021-03-24
+
+tags: hit
+
+id: ath-21-03-24-01  
+
+**Links**
+* https://www.reddit.com/r/greece/comments/mcc40r/%CE%B1%CF%83%CF%84%CF%85%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%87%CF%84%CF%85%CF%80%CE%AC%CE%B5%CE%B9_%CE%BC%CE%B5_%CF%84%CE%B7%CE%BD_%CE%B1%CF%83%CF%80%CE%AF%CE%B4%CE%B1_%CF%84%CE%BF%CF%85_%CE%B4%CE%B9%CE%B1%CE%B4%CE%B7%CE%BB%CF%8E%CF%84%CF%81%CE%B9%CE%B1/
 
 
 # Chania
